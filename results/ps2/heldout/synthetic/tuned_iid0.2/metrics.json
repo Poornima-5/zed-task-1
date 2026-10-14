@@ -1,0 +1,68 @@
+{
+ "cfg": {
+  "high_thr": 0.5,
+  "low_thr": 0.1,
+  "new_thr": 0.6,
+  "n_init": 3,
+  "max_age": 150,
+  "use_appearance": true,
+  "use_low_stage": true,
+  "occlusion_aware": true,
+  "cascade": true,
+  "reid_margin": 0.1,
+  "w_app": 0.5,
+  "app_gate": 0.35,
+  "reid_gate": 0.2,
+  "short_lost": 3,
+  "maha_gate": 9.4877,
+  "iou_min": 0.05,
+  "stage2_iou": 0.5,
+  "tent_iou": 0.3,
+  "occ_iou": 0.35,
+  "occ_r_scale": 3.0,
+  "gallery": 10,
+  "dup_iou": 0.8
+ },
+ "metrics": {
+  "COMBINED": {
+   "HOTA": 35.84176188993721,
+   "DetA": 43.577364603577415,
+   "AssA": 29.610179079234893,
+   "MOTA": 50.92296907858868,
+   "IDF1": 46.47817460317461,
+   "IDSW": 151,
+   "Frag": 1582,
+   "MT": 2,
+   "ML": 4,
+   "FP": 316,
+   "FN": 5834,
+   "GT_dets": 12839
+  },
+  "MOT17-10-SDP": {
+   "HOTA": 35.84176188993721,
+   "DetA": 43.577364603577415,
+   "AssA": 29.610179079234893,
+   "MOTA": 50.92296907858868,
+   "IDF1": 46.47817460317461,
+   "IDSW": 151,
+   "Frag": 1582,
+   "MT": 2,
+   "ML": 4,
+   "FP": 316,
+   "FN": 5834,
+   "GT_dets": 12839
+  }
+ },
+ "latency_ms": {
+  "MOT17-10-SDP": {
+   "mean": 15.14449862386182,
+   "p50": 14.638650001870701,
+   "p95": 23.863420000634505,
+   "max": 28.854099997261073
+  }
+ },
+ "n_ids": {
+  "MOT17-10-SDP": 135
+ },
+ "appearance_used": true
+}

@@ -1,0 +1,27 @@
+{
+ "objective": 59.71553596422004,
+ "cfg": {
+  "high_thr": 0.5,
+  "low_thr": 0.1,
+  "new_thr": 0.6,
+  "n_init": 3,
+  "max_age": 150,
+  "use_appearance": true,
+  "use_low_stage": true,
+  "occlusion_aware": true,
+  "cascade": true,
+  "reid_margin": 0.1,
+  "w_app": 0.5,
+  "app_gate": 0.35,
+  "reid_gate": 0.2,
+  "short_lost": 3,
+  "maha_gate": 9.4877,
+  "iou_min": 0.05,
+  "stage2_iou": 0.5,
+  "tent_iou": 0.3,
+  "occ_iou": 0.35,
+  "occ_r_scale": 3.0,
+  "gallery": 10,
+  "dup_iou": 0.8
+ }
+}

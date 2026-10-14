@@ -1,0 +1,31 @@
+[project]
+name = "zed-cv"
+version = "0.1.0"
+description = "Zed Digital PS-1 open-set re-ID and PS-2 occlusion-robust MOT"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.13",
+    "scikit-learn>=1.5",
+    "matplotlib>=3.9",
+    "pillow>=10",
+]
+
+[project.optional-dependencies]
+embed = ["torch>=2.4", "torchvision>=0.19"]
+mot = [
+    "trackeval==1.3.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "zed_cv"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

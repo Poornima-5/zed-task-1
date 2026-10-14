@@ -1,0 +1,252 @@
+[
+ {
+  "n_enrolled": 10,
+  "seed": 0,
+  "feasible": true,
+  "tau": -0.07982516288757324,
+  "delta": 0.1,
+  "test_DIR": 0.9166666666666666,
+  "test_FAR": 0.041307308216069,
+  "n_unknown_probes": 2203
+ },
+ {
+  "n_enrolled": 10,
+  "seed": 1,
+  "feasible": true,
+  "tau": -0.015330970287322998,
+  "delta": 0.0,
+  "test_DIR": 0.8260869565217391,
+  "test_FAR": 0.012323140118667275,
+  "n_unknown_probes": 2191
+ },
+ {
+  "n_enrolled": 10,
+  "seed": 2,
+  "feasible": true,
+  "tau": -0.0008533596992492676,
+  "delta": 0.0,
+  "test_DIR": 0.5681818181818182,
+  "test_FAR": 0.0036363636363636364,
+  "n_unknown_probes": 2200
+ },
+ {
+  "n_enrolled": 10,
+  "seed": 3,
+  "feasible": true,
+  "tau": -0.07302644848823547,
+  "delta": 0.0,
+  "test_DIR": 0.9347826086956522,
+  "test_FAR": 0.032951945080091534,
+  "n_unknown_probes": 2185
+ },
+ {
+  "n_enrolled": 10,
+  "seed": 4,
+  "feasible": true,
+  "tau": -0.026031017303466797,
+  "delta": 0.0,
+  "test_DIR": 0.8095238095238095,
+  "test_FAR": 0.011431184270690443,
+  "n_unknown_probes": 2187
+ },
+ {
+  "n_enrolled": 25,
+  "seed": 0,
+  "feasible": true,
+  "tau": -0.026630520820617676,
+  "delta": 0.0,
+  "test_DIR": 0.8103448275862069,
+  "test_FAR": 0.02826189354686764,
+  "n_unknown_probes": 2123
+ },
+ {
+  "n_enrolled": 25,
+  "seed": 1,
+  "feasible": true,
+  "tau": -0.04570561647415161,
+  "delta": 0.02,
+  "test_DIR": 0.775,
+  "test_FAR": 0.03778932451582428,
+  "n_unknown_probes": 2117
+ },
+ {
+  "n_enrolled": 25,
+  "seed": 2,
+  "feasible": true,
+  "tau": 0.013829588890075684,
+  "delta": 0.0,
+  "test_DIR": 0.6052631578947368,
+  "test_FAR": 0.012682010333489901,
+  "n_unknown_probes": 2129
+ },
+ {
+  "n_enrolled": 25,
+  "seed": 3,
+  "feasible": true,
+  "tau": -0.048631250858306885,
+  "delta": 0.05,
+  "test_DIR": 0.7830188679245284,
+  "test_FAR": 0.034352941176470586,
+  "n_unknown_probes": 2125
+ },
+ {
+  "n_enrolled": 25,
+  "seed": 4,
+  "feasible": true,
+  "tau": -0.05178046226501465,
+  "delta": 0.1,
+  "test_DIR": 0.7982456140350878,
+  "test_FAR": 0.04160756501182033,
+  "n_unknown_probes": 2115
+ },
+ {
+  "n_enrolled": 50,
+  "seed": 0,
+  "feasible": true,
+  "tau": -0.06057775020599365,
+  "delta": 0.1,
+  "test_DIR": 0.76,
+  "test_FAR": 0.07348560079443893,
+  "n_unknown_probes": 2014
+ },
+ {
+  "n_enrolled": 50,
+  "seed": 1,
+  "feasible": true,
+  "tau": -0.004350006580352783,
+  "delta": 0.02,
+  "test_DIR": 0.7008928571428571,
+  "test_FAR": 0.04669647292598112,
+  "n_unknown_probes": 2013
+ },
+ {
+  "n_enrolled": 50,
+  "seed": 2,
+  "feasible": true,
+  "tau": 0.0006085038185119629,
+  "delta": 0.02,
+  "test_DIR": 0.6086956521739131,
+  "test_FAR": 0.02432969215491559,
+  "n_unknown_probes": 2014
+ },
+ {
+  "n_enrolled": 50,
+  "seed": 3,
+  "feasible": true,
+  "tau": -0.011939048767089844,
+  "delta": 0.0,
+  "test_DIR": 0.7085201793721974,
+  "test_FAR": 0.03934262948207171,
+  "n_unknown_probes": 2008
+ },
+ {
+  "n_enrolled": 50,
+  "seed": 4,
+  "feasible": true,
+  "tau": -0.017957627773284912,
+  "delta": 0.0,
+  "test_DIR": 0.7419354838709677,
+  "test_FAR": 0.037276341948310136,
+  "n_unknown_probes": 2012
+ },
+ {
+  "n_enrolled": 100,
+  "seed": 0,
+  "feasible": true,
+  "tau": -0.04009637236595154,
+  "delta": 0.02,
+  "test_DIR": 0.7364864864864865,
+  "test_FAR": 0.10807799442896936,
+  "n_unknown_probes": 1795
+ },
+ {
+  "n_enrolled": 100,
+  "seed": 1,
+  "feasible": true,
+  "tau": -0.022383809089660645,
+  "delta": 0.02,
+  "test_DIR": 0.7022222222222222,
+  "test_FAR": 0.08118701007838745,
+  "n_unknown_probes": 1786
+ },
+ {
+  "n_enrolled": 100,
+  "seed": 2,
+  "feasible": true,
+  "tau": -0.002561628818511963,
+  "delta": 0.02,
+  "test_DIR": 0.6995412844036697,
+  "test_FAR": 0.04756637168141593,
+  "n_unknown_probes": 1808
+ },
+ {
+  "n_enrolled": 100,
+  "seed": 3,
+  "feasible": true,
+  "tau": -0.01984274387359619,
+  "delta": 0.02,
+  "test_DIR": 0.7370786516853932,
+  "test_FAR": 0.10196078431372549,
+  "n_unknown_probes": 1785
+ },
+ {
+  "n_enrolled": 100,
+  "seed": 4,
+  "feasible": true,
+  "tau": -0.014793485403060913,
+  "delta": 0.0,
+  "test_DIR": 0.7104072398190046,
+  "test_FAR": 0.08785674314493565,
+  "n_unknown_probes": 1787
+ },
+ {
+  "n_enrolled": 200,
+  "seed": 0,
+  "feasible": true,
+  "tau": -0.03300958871841431,
+  "delta": 0.0,
+  "test_DIR": 0.7394766780432309,
+  "test_FAR": 0.2139705882352941,
+  "n_unknown_probes": 1360
+ },
+ {
+  "n_enrolled": 200,
+  "seed": 1,
+  "feasible": true,
+  "tau": -0.02498859167098999,
+  "delta": 0.0,
+  "test_DIR": 0.71412680756396,
+  "test_FAR": 0.19431988041853512,
+  "n_unknown_probes": 1338
+ },
+ {
+  "n_enrolled": 200,
+  "seed": 2,
+  "feasible": true,
+  "tau": -0.016182243824005127,
+  "delta": 0.0,
+  "test_DIR": 0.7032474804031354,
+  "test_FAR": 0.17912657290895634,
+  "n_unknown_probes": 1351
+ },
+ {
+  "n_enrolled": 200,
+  "seed": 3,
+  "feasible": true,
+  "tau": -0.02966970205307007,
+  "delta": 0.02,
+  "test_DIR": 0.6958934517203108,
+  "test_FAR": 0.21127819548872181,
+  "n_unknown_probes": 1330
+ },
+ {
+  "n_enrolled": 200,
+  "seed": 4,
+  "feasible": true,
+  "tau": -0.01990443468093872,
+  "delta": 0.02,
+  "test_DIR": 0.7073991031390134,
+  "test_FAR": 0.14584891548242335,
+  "n_unknown_probes": 1337
+ }
+]
